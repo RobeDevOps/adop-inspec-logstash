@@ -1,0 +1,14 @@
+name: logstash
+title: basic logstash configuration
+maintainer: roberto cardenas isla
+copyright: roberto cardenas isla
+copyright_email: rcardenas20@gmail.com
+license: Apache-2.0
+summary: Verify logstash configuration contains the basic files
+version: 0.0.1
+# supports:
+#   - os-family: linux
+# depends:
+#   - name: profile
+#     path: ../path/to/profile
+# inspec_version: "1.0"
